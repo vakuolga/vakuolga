@@ -1,4 +1,4 @@
-# Olga Sinenkova
+# Olga Sinenkova # Olga Sinenkova <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="36" alt="waving hand">
 
 Frontend developer in Leipzig, Germany - 6+ years with React, Vue/Nuxt and TypeScript, increasingly full-stack on Cloudflare Workers.
 
